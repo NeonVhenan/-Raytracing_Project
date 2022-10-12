@@ -1,2 +1,2 @@
 # -Raytracing_Project
-C++ Project realized during my Master's Degree first year in 2021
+Project realized during my Master's Degree first year in 2021. The part I worked on is the C++ part.
